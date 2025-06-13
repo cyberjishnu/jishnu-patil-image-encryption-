@@ -97,7 +97,11 @@ image-encryption-pro/
 
 # 📆 Project Info
 
-Task: Internship Project Task #4 - Image EncryptionOrganization: Pinnacle LabsIntern: Jishnu Dipak Patil
+Task: Internship Project Task 4 - Image Encryption
+
+Organization: Pinnacle Labs
+
+Intern: Jishnu Dipak Patil
 
 # 📜 License
 
