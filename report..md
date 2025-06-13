@@ -1,6 +1,15 @@
 # 🔐 Internship Report – Image Encryption Tool
 
-Intern Name: Jishnu Dipak PatilInternship Title: Cybersecurity Internship Program 2025Project Task: Task No. 4 – Image EncryptionOrganization: Pinnacle LabsProject Duration: June 2025 – July 2025
+
+Intern Name: Jishnu Dipak Patil
+
+Internship Title: Cybersecurity Internship Program 2025
+
+Project Task: Task No. 4 – Image Encryption
+
+#### Organization: Pinnacle Labs
+
+Project Duration: June 2025 – July 2025
 
 # ✏️ Objective
 
